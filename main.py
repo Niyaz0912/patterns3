@@ -1,6 +1,6 @@
 from controller.controller import ArticleController
 from model.model import Article
-from viev.viev import ArticleView
+from view.view import ArticleView
 
 # Создаем экземпляр статьи
 article = Article(
